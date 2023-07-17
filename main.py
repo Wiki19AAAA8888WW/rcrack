@@ -6,8 +6,8 @@ import sys
 import getopt
 from itertools import chain, product
 
-ip = "127.0.0.1"
-port = "20175"
+ip = "149.18.62.52"
+port = "7003"
 
 chars = "string.ascii_lowercase"
 lenght = 4
